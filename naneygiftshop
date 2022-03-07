@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<img src="jabon1.jpeg">
+</body>
+</html>
+
+<head>
+<h1>Naney gift shop</h1>
+      </head>
+
+<h2>Jabones Medicinales</h2>
+<body>
+	<h3>Misión</h3>
+Mi misión es servirle a la sociedad con la producción de jabones en distintas presentaciones con una alta calidad satisfaciendo las necesidades del cliente y de la sociedad en general.
+
+<h3>Visión</h3>
+Mi visión es ser uno de los productores de jabones artesanales en nivel profesional teniendo una calidad que nos identifique.
+
+
+<p>
+El jabón es un elemento de uso personal y diario muy importante en nuestra vida. Su función es principalmente higienizar la piel, y dependiendo de sus ingredientes pude incluso cuidar y mejorar el aspecto de esta. Estos jabones son completamente naturales. Dejan la piel más suave y tersa. Están hechos a base de resina, aceites esenciales y vitaminas. 
+</p>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<img src="jabon2.jpeg">
+</body>
+</html>
+<p> 
+Lo que puede ayudar el jabón casero es una forma de reducir el impacto ambiental de nuestro consumo. Proteger la piel y curar ciertas dolencias de la piel tales como la psoriasis, dermatitis, acné o terminar con la piel reseca. Los aceites caseros están realizados con aceite de oliva o coco, que incluyen unas series de vitaminas que son muy positivas para la piel y el cuerpo de las personas.
+ </p>
+      </body>
+<table>
+<tr>
+<!--esta es la primera fila-->
+<th>TIPOS DE JABONES</th>
+<th>Y SUS BENEFICIOS</th>
+</tr>
+<tr>
+<!--esta es la segunda fila-->
+</tr>
+<th>Tipo de Jabon<t/h>
+<th>Beneficios</th>
+	<th>Tipo de piel</th>
+</tr>
+<tr>
+<!--esta es la tercera fila-->
+</tr>
+<tr><th>Carbón Activado</td><td>Acné</td>
+<td>Todo tipo de piel</td>
+</tr>
+<tr>
+<!--esta es la cuarta fila-->
+</tr>
+</tr>
+</th><th> Rosa Mosqueta</th><td>Dermatitis/Rosásea</td><td>Piel Sensible</td>
+</tr>
+
+<tr>
+<!--esta es la quinta fila-->
+</th><th> Avena y miel</th><td>Humecta</td><td>Piel Seca</td>
+</tr>
+<tr>
+<!--esta es la sexta fila-->
+</th><th> Café</th><td>Exfoliante/Celulitis</td><td>Todo Tipo de Piel</td>
+</tr>
+<tr>
+<!--esta es la septima fila-->
+</th><th> Coco </th><td>Exfoliante</td><td>Todo Tipo de Piel</td>
+</tr>
+<tr>
+<!--esta es la octava fila-->
+</th><th> Lavanda</th><td>Ansiedad</td><td>Todo Tipo de Piel</td>
+
+</tr>
+<tr>
+<!--esta es la novena fila-->
+</th><th> Café y Canela</th><td>Elasticidad/Firmeza</td><td>Todo Tipo de Piel</td>
+</tr>
+</table>
+
+
+<div>
+Copyright&Copy;2022 Cindy Garcia
+</div>
+<div>
+cgarcia839@live.edpuniversity.edu 
+</div>
+
+</html>
